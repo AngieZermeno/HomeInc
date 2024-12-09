@@ -1,0 +1,6 @@
+@HomeInc_HostAddress = http://localhost:5189
+
+GET {{HomeInc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
